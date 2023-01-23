@@ -1,0 +1,4 @@
+# Environment Variables file
+.env
+
+/node_modules
